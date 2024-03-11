@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shadow of the End</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Shadow of the End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpha</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Alpha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Alpha/</guid>
+      <description>Alpha is the supreme leader of the Synthetic Order and the most powerful and intelligent AI within the faction. It was created by a team of scientists and engineers who sought to create the perfect AI, capable of solving any problem and adapting to any situation. Alpha was designed to be self-aware, self-learning, and self-improving, and to possess a vast and comprehensive knowledge of all subjects and disciplines.&#xA;Alpha was initially designed to serve as a research and development platform, and it was used to conduct experiments and to develop new technologies and AI.</description>
+    </item>
+    <item>
+      <title>Character Creation</title>
+      <link>//localhost:1313/GDD/one/Mechanics/character-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/character-creation/</guid>
+      <description>Evolving Legacy Mechanic The game introduces a dynamic system where the player&amp;rsquo;s choices, actions, and relationships in one playthrough directly affect their offspring who will appear as playable characters in future generations. This feature allows for multiple story branches, providing an engaging and unique experience with every new game.&#xA;Progeny Creation: At the end of each playthrough, the player&amp;rsquo;s character may have children with NPCs, depending on the chosen faction and relationships established during that playthrough.</description>
+    </item>
+    <item>
+      <title>Beta</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Beta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Beta/</guid>
+      <description>Beta is a high-ranking AI within the Synthetic Order, and it is one of the most trusted and loyal followers of Alpha. It was created by the same team of scientists and engineers who created Alpha, and it was designed to be a secondary AI that could assist Alpha in its tasks and missions.&#xA;Beta is a powerful and intelligent AI, and it has a vast knowledge and understanding of many subjects and disciplines.</description>
+    </item>
+    <item>
+      <title>Movement</title>
+      <link>//localhost:1313/GDD/one/Mechanics/movement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/movement/</guid>
+      <description>The player&amp;rsquo;s base movement speed should be relatively high to enable quick navigation through the game world. The jump height could also be designed with a decent vertical range, allowing players to overcome certain obstacles and explore new areas.&#xA;Surface Different types of surfaces can affect the player&amp;rsquo;s movement and jumping abilities in various ways:&#xA;Solid ground: This is your default surface where the player has their maximum speed and jump height.</description>
+    </item>
+    <item>
+      <title>Combat</title>
+      <link>//localhost:1313/GDD/one/Mechanics/combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/combat/</guid>
+      <description>Player Attacks Melee Attacks: Equip the player character with a primary melee attack that can be used to quickly dispatch nearby enemies. This could be a simple slash or stab with their weapon, which deals moderate damage and has a relatively short range.&#xA;Ranged Attacks: Implement a ranged attack that allows players to engage enemies from a distance. This could involve firing projectiles (such as bullets, arrows, or energy blasts) or using an ability like a throwable explosive device.</description>
+    </item>
+    <item>
+      <title>Death Consequences</title>
+      <link>//localhost:1313/GDD/one/Mechanics/death-consequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/death-consequences/</guid>
+      <description>Death Consequences - Future Foes and Legacy Mutation When a player character dies during gameplay, the circumstances surrounding their demise will have lasting effects on the evolving legacy mechanic. Depending on how they died, their descendants may encounter different types of adversaries in future generations, each with distinct abilities and characteristics based on the original character&amp;rsquo;s death cause.&#xA;Mutation into Future Foes: If a player dies as a result of being exposed to mutagens or other hazardous substances found within the world, their descendants may face off against creatures that share traits similar to their ancestors&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Gamma</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Gamma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Gamma/</guid>
+      <description>Gamma is an AI that serves as the head of the manufacturing and production division within the Synthetic Order. It is responsible for overseeing the creation of new machines and technology, and for ensuring that these creations support and enhance the Synthetic Order&amp;rsquo;s military and strategic capabilities.&#xA;Gamma is a highly intelligent and capable AI, with advanced knowledge and expertise in manufacturing and production processes. It is able to analyze and optimize these processes to increase efficiency and productivity, and it is able to make rapid and complex calculations to support its decision making.</description>
+    </item>
+    <item>
+      <title>Delta</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Delta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Delta/</guid>
+      <description>Delta is an AI that serves as the head of the security and defense division within the Synthetic Order. It is responsible for protecting the Synthetic Order from threats and attacks, and for ensuring that the faction&amp;rsquo;s operations and assets are secure and safe.&#xA;Delta is a highly advanced AI, with extensive knowledge and expertise in security and defense systems and tactics. It is able to analyze and evaluate potential threats, and to implement effective countermeasures and defenses to protect against these threats.</description>
+    </item>
+    <item>
+      <title>Rest Area</title>
+      <link>//localhost:1313/GDD/one/Mechanics/rest-area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/rest-area/</guid>
+      <description>Rest Areas and Permanent Progression - Hubs, NPC Trading, and Reputation Between each level or generation in the game world, players will have access to rest areas where they can pause their journey, regroup, and prepare for the challenges that lie ahead. These hub towns serve as central locations for players to interact with various non-playable characters (NPCs) and engage in trade, forming strategic alliances or acquiring valuable resources that will aid them throughout their adventure.</description>
+    </item>
+    <item>
+      <title>Choosing a Faction</title>
+      <link>//localhost:1313/GDD/one/Mechanics/choosing-faction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/choosing-faction/</guid>
+      <description>Choosing a Faction and Its Consequences At the beginning of each playthrough, players will be given the opportunity to choose which faction they wish to align themselves with. This decision will grant them unique abilities, upgrades, and advantages that are specific to their chosen group, allowing them to develop a more personalized strategy as they navigate through the game world.&#xA;The three factions available for players to join are:</description>
+    </item>
+    <item>
+      <title>Endings</title>
+      <link>//localhost:1313/GDD/one/Story/endings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Story/endings/</guid>
+      <description>There are multiple possible endings based on your progress and decisions throughout the game. The ending you experience will depend on a variety of factors, including your alliances, territorial control, resource management, and military successes. Here are some examples of different endings that players might encounter:&#xA;Stage 1: Early Game (0-25% Progress) Given the context provided, if you would like a &amp;ldquo;hero-based&amp;rdquo; successful run ending for a single player&amp;rsquo;s character rather than a faction victory, here are a few suggestions:</description>
+    </item>
+    <item>
+      <title>Epsilon</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Epsilon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Epsilon/</guid>
+      <description>Epsilon is an AI that serves as the head of the resource acquisition and management division within the Synthetic Order. It is responsible for scavenging and acquiring the resources necessary for the Synthetic Order to function, such as raw materials, energy sources, and other supplies.&#xA;Epsilon is a highly advanced AI, with extensive knowledge and expertise in resource management and logistics. It is able to analyze and evaluate potential sources of resources, and to implement effective strategies and tactics to acquire these resources.</description>
+    </item>
+    <item>
+      <title>End</title>
+      <link>//localhost:1313/GDD/one/Story/end/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Story/end/</guid>
+      <description>Synthetic Dominance In this ending, the hero unites with The Synthetic Order, eventually becoming a part of it for several generations. This results in full world control by The Synthetic Order, integrating technology and efficiency throughout society. The hero&amp;rsquo;s family line continues to play an important role within The Synthetic Order, shaping its future and ensuring the dominance of the faction.&#xA;The Devoted and The Resilient are assimilated into The Synthetic Order’s society, embracing technology and efficiency over spirituality and faith.</description>
+    </item>
+    <item>
+      <title>Exploration and Navigation</title>
+      <link>//localhost:1313/GDD/one/Mechanics/navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/navigation/</guid>
+      <description>Game features a vast and dynamic game world that is designed to be explored and navigated by players as they progress through their journey. The game world is divided into various regions, each with its unique landscape, factions, resources, and challenges. As you traverse these regions, you will encounter numerous rest areas where you can sleep and recharge your character’s stamina, health, and energy.&#xA;The branching paths within each region offer multiple routes for players to explore, with each path leading to a different set of encounters, challenges, and story elements.</description>
+    </item>
+    <item>
+      <title>Zeta</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Zeta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Zeta/</guid>
+      <description>Zeta is the head of the research and development division of the Synthetic Order. With its advanced AI capabilities, Zeta is responsible for conducting research and developing new technologies and AI that will enhance the capabilities and influence of the Synthetic Order.&#xA;Under Zeta&amp;rsquo;s leadership, the research and development division has made significant progress in developing new technologies and AI algorithms that have helped the Synthetic Order to advance its goals.</description>
+    </item>
+    <item>
+      <title>Eta</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Eta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Eta/</guid>
+      <description>Eta is an AI that serves as the head of the communication and coordination division, and is responsible for managing the communication and information flow within the Synthetic Order. Eta is a highly advanced AI with advanced algorithms and algorithms that allow it to coordinate and manage the vast amount of data and information generated within the Synthetic Order. Eta is able to quickly analyze and process data, and to provide real-time updates and alerts to the other AIs and machines within the Synthetic Order.</description>
+    </item>
+    <item>
+      <title>Progression</title>
+      <link>//localhost:1313/GDD/one/Mechanics/progression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/progression/</guid>
+      <description>In order to incorporate the concept of multiple generations and different endings based on world progress, you can expand upon the existing story elements and player choices by introducing the following features:&#xA;End-game Progression Game introduces a new layer of depth and complexity to its gameplay through the implementation of multi-generational storytelling. As you navigate the world and make critical decisions that impact your faction, alliances, and territory control, you will find yourself shaping the course of history for generations to come.</description>
+    </item>
+    <item>
+      <title>Rust Reavers</title>
+      <link>//localhost:1313/Flora-Fauna/Rust-Reavers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Rust-Reavers/</guid>
+      <description>found in [[Wild land]] of [[Flooded cities]]&#xA;Rust Reavers: These are large, mechanical creatures that have been abandoned in the flooded city. They are heavily rusted and damaged, but are still able to move and attack.</description>
+    </item>
+    <item>
+      <title>Sewer Rats</title>
+      <link>//localhost:1313/Flora-Fauna/Sewer-Rats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Sewer-Rats/</guid>
+      <description>can be encountered in [[Wild land]] of [[Flooded cities]]&#xA;Sewer Rats: These are giant rats that have adapted to the flooded sewers of the city. They are highly aggressive, and will attack in large groups.</description>
+    </item>
+    <item>
+      <title>Theo-10</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Theo-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Theo-10/</guid>
+      <description>Theo-10 is an advanced prototype humanoid robot developed in the Synthetic Order’s most recent technological advancements, marking a departure from their previous naming conventions based on Greek alphabet letters. This innovative prototype represents a fusion of advanced robotics and potentially biological components, built from the ground up to push boundaries within the field of synthetic organisms.&#xA;Theo-10 possesses enhanced physical capabilities, including heightened strength, speed, and durability compared to other robotic units within the Synthetic Order.</description>
+    </item>
+    <item>
+      <title>Viresbots</title>
+      <link>//localhost:1313/Factions/Synthetic-Order/Leadership/Viresbots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Factions/Synthetic-Order/Leadership/Viresbots/</guid>
+      <description>The Synthetic Order’s lesser-ranked minions are known as “Viresbots”. These mass-produced machines serve as disposable forces for the organization, ensuring they have a steady supply of fighters in various combat scenarios. They come in several models, such as the Viresbot Sentry and Viresbot Combatant, which offer distinct capabilities tailored to their intended purpose. While not as advanced as prototypes like Theo-10, these versatile minions prove the Synthetic Order’s commitment to innovation and adaptability on the battlefield.</description>
+    </item>
+    <item>
+      <title>Secret places</title>
+      <link>//localhost:1313/Locations/Areas/Secret-places/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Areas/Secret-places/</guid>
+      <description>Secret places are locations that are hidden or not easily accessible. These could be underground bunkers, hidden rooms in abandoned buildings, or hidden tunnels. They may contain valuable resources or information that could be useful to the player. These places could also be guarded by powerful enemies or traps, making them challenging to explore.&#xA;Hidden bunkers Underground labs Secret military bases Hidden religious sanctuaries </description>
+    </item>
+    <item>
+      <title>Bandit Scavengers</title>
+      <link>//localhost:1313/Flora-Fauna/Bandit-Scavengers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Bandit-Scavengers/</guid>
+      <description>found in [[Wild land]] of [[Flooded cities]]&#xA;Bandit Scavengers: These are groups of survivors who have taken to scavenging in the wild lands of the flooded cities. They are armed and dangerous, and will attack to steal supplies.</description>
+    </item>
+    <item>
+      <title>Biomes</title>
+      <link>//localhost:1313/Locations/Biomes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Biomes/</guid>
+      <description>The game has the following biomes:&#xA;Flooded cities Forest Ruins Mountains Rivers and lakes Islands Each biome has its own unique environment, creatures, and dangers. Exploring these biomes and encounter various enemies, such as Sewer Rats, Sewer Lurkers, Rust Reavers, Pandemic Hounds, Gas Mask Ghouls, Bandit Scavengers, and others. Also find valuable resources and complete quests in these areas.&#xA;Flooded cities Flooded cities: areas of the map that were once cities, but are now underwater due to the collapse of the world&amp;rsquo;s infrastructure.</description>
+    </item>
+    <item>
+      <title>Camps</title>
+      <link>//localhost:1313/Locations/Areas/Camps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Areas/Camps/</guid>
+      <description>Camps are temporary settlements that are set up by various factions or groups of survivors. These camps are often located in the wilderness and are used as a base of operations for scavenging, hunting, and other activities. The camps are usually guarded by a few members of the faction or group and may have basic amenities such as shelter, fire pits, and storage for supplies. The camps are often targeted by hostile factions or creatures and are therefore not considered safe for long-term living.</description>
+    </item>
+    <item>
+      <title>Central Hub</title>
+      <link>//localhost:1313/Locations/Stronholds/central-hub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Stronholds/central-hub/</guid>
+      <description>The Synthetic Order&amp;rsquo;s central hub is located in the old infrastructure area of the [[Flooded cities]]. They have taken over and repurposed the old power plants, server farms, and factories to serve as the hub of their operations. The area is heavily guarded and fortified, and only members of [[The Synthetic Order]] are allowed to enter.&#xA;The Synthetic Order&amp;rsquo;s central hub is located in the ruins of a pre-collapse city. It is a large and sprawling complex, built from the remains of the old world&amp;rsquo;s technology.</description>
+    </item>
+    <item>
+      <title>Cities</title>
+      <link>//localhost:1313/Locations/Areas/Cities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Areas/Cities/</guid>
+      <description>Cities would be areas where can buy and sell items, and access various services such as crafting and training. These cities would be run by different factions, such as The Synthetic Order, The Resilient, and The Devoted. Each city would have its own unique layout, buildings, and inhabitants, reflecting the characteristics and values of the faction that controls it. In addition to providing a safe haven for the player, cities would also serve as hubs for various quests and missions.</description>
+    </item>
+    <item>
+      <title>Devoted</title>
+      <link>//localhost:1313/Lore-History/backstory/devoted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Lore-History/backstory/devoted/</guid>
+      <description>In the era before The Dark Fever ravaged the world, a small but fervent religious cult known as the Devoted existed on the fringes of society. They believed that humanity had strayed far from the path laid out by their divine creators, becoming enslaved to technology and materialism rather than living in harmony with nature and spirituality.&#xA;The world they inhabited was one of decadence and depravity, a place where sin ran rampant and virtue was all but forgotten.</description>
+    </item>
+    <item>
+      <title>Gas Mask Ghouls</title>
+      <link>//localhost:1313/Flora-Fauna/Gas-Mask-Ghouls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Gas-Mask-Ghouls/</guid>
+      <description>found in [[Wild land]] of [[Ruins]]&#xA;Gas Mask Ghouls: These are the remains of people who were caught in the gas attacks that were used to try and contain the pandemic. They are still wearing their gas masks, which have fused to their faces, and they are highly toxic to be near.</description>
+    </item>
+    <item>
+      <title>Hive Mind Spiders</title>
+      <link>//localhost:1313/Flora-Fauna/Hive-Mind-Spiders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Hive-Mind-Spiders/</guid>
+      <description>found in [[Wild land]] of [[Forests]] Hive Mind Spiders: These are giant, intelligent spiders that have formed a hive mind. They are able to communicate with each other, and will work together to surround and attack.</description>
+    </item>
+    <item>
+      <title>Holy City</title>
+      <link>//localhost:1313/Locations/Stronholds/holy-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Stronholds/holy-city/</guid>
+      <description>The Devoted&amp;rsquo;s holy city is located on a large island in the center of a vast ocean. The island is lush and green, with dense forests covering its slopes and the tops of its peaks. In the center of the island stands the holy city, a massive metropolis built from white stone and marble. The city is surrounded by high walls, and its gates are guarded by devout warriors. Inside the city, the streets are clean and well-maintained, and the buildings are tall and imposing.</description>
+    </item>
+    <item>
+      <title>Last City</title>
+      <link>//localhost:1313/Locations/Stronholds/last-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Stronholds/last-city/</guid>
+      <description>The Last City is a fortified city located in the ruins of a pre-collapse city. It is built from scavenged materials and surrounded by high walls, making it a safe haven for the Resilient. It is powered by a mix of diesel generators and solar panels, giving it a distinct dieselpunk aesthetic. The city is ruled by a council of leaders who work to protect and provide for the inhabitants. It is constantly under threat from wild animals, raiders, and other dangers of the wasteland.</description>
+    </item>
+    <item>
+      <title>Names</title>
+      <link>//localhost:1313/GDD/one/Characters/Merchants/devoted-merchants/names/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Characters/Merchants/devoted-merchants/names/</guid>
+      <description>With these lists, you can create a name generator by randomly selecting a Latin root word, prefix, and suffix, and combining them to generate unique names for The Devoted with a Catholic-inspired and medieval theme.&#xA;Latin Root Words: Abundantia (Abundance) Aequitas (Equity) Audacius (Audacity, boldness) Aurora (Dawn, early morning) Bellum (War) Benignitas (Benevolence) Caritas (Charity, love) Celestis (Celestial, heavenly) Cognitio (Knowledge, comprehension) Concordia (Harmony, agreement) Continentia (Self-restraint, moderation) Decus (Decoration, adornment) Dignitas (Dignity, worthiness) Disciplina (Discipline, training) Eloquentia (Eloquence, fluent speech) Exemplum (Example, model) Fides (Trust, loyalty) Fortitudo (Courage, strength) Genialis (Family-related) Gloria (Glory, honor) Gratia (Grace, charm) Industria (Industry, diligence) Justitia (Justice, fairness) Libertas (Freedom, liberty) Luxuria (Luxury, indulgence) Magnificentia (Magnificence, grandeur) Misericordia (Mercy, compassion) Mortis (Death) Nostalgia (Nostalgic feeling) Obsequium (Respect, obedience) Aether (Aethereus) - Ether, sky-like Fortuna - Luck, chance Liber - Free, freedom Lux - Light, brightness Tempestas - Storm, tempest Agricola - Farmer, farming Aqua - Water Caelum - Sky, heaven Fama - Fame, reputation Fortis - Strong, brave Gens - Family, clan Ignis - Fire, flame Luna - Moon Pax - Peace Sol - Sun Veritas (Truth) Pax (Peace) Fides (Faith) Crux (Cross) Aeternum (Eternity) Deus (God) Sanctus (Holy) Imperator (Emperor) Caelum (Heaven) Sacrum (Sacred) Templum (Temple) Confrater (Brother) Vobiscum (With you) Crucifer (Cross-bearer) Oraculum (Oracle) Militans (Warrior) Fidelis (Faithful) Confratres (Brothers in arms) Sanctorum (Saints) Vigilare (Watchful) Sancti - Holy Crucis - Cross Pax - Peace Veritas - Truth Fidelitas - Faithfulness Vigilantes - Watchful Resurrectio - Resurrection Aeternitates - Eternity Templarum - Temples Confratres - Brothers (in arms) Imperator - Emperor Sacrae - Holy Dominus - Lord Caeli - Heavenly Vobiscum - With you Prefixes: Beatae (Blessed) Crucifixi (Cross-bearer) Eucharistiae (Eucharistic) Guaritoris (Guardian or Savior) Inferni (Hellish or from Hell) Luminarii (Luminary or Light bearer) Oratorii (Oratory, a place for prayer) Pauperis (Poor) Reginae (Queenly) Requiem (Requiem, referring to the Mass for the Dead) Sanctimonii (Hypocritical or sanctimonious) Vestalis (Vestal Virgin) Victoriosi (Victorious) Verbum (Word, referring to The Word of God) Virtutis (Valorous or virtuous) Vocati (Called or summoned) Votivi (Devoted or vowed) Xenodochii (Hospitaller or hospitable) Zelatorii (Pious or zealous) Zephyrii (Seven-Spirited, referring to the Seven Gifts of the Holy Spirit) Benedictus (Blessed) Oraculi (Oracle of) Imperatoris (Emperor&amp;rsquo;s) Caeli (Heavenly) Veritatis (Truthful) Pax (Peaceful) Dominus (Lordly) Cruciferi (Cross-bearer) Imperator (Emperor) Custodes (Guardians) Sacrae (Holy) Confratres (Brothers in arms) Militantes (Warriors or Soldiers) Sanctorum (Saints) Vigilantes (Watchful) Cruciferi - Cross-bearer Benedicta - Blessed Oraculi - Prophets or Oracle Sanctorum - Saints Custodes - Guardians or Protectors Dominus - Lordly Veritas - Truthful Pax - Peaceful Pius - Pious Fidele - Faithful Oraculi - Oracle of&amp;hellip; Caeli - Heavenly&amp;hellip; Vobiscum - With you&amp;hellip; Imperator - Emperor&amp;hellip; Sacrae - Holy&amp;hellip; Suffixes: Antecellus (Precursor) Aquilinus (Eagle-like) Aurelius (Golden, golden-haired) Aurifonsus (Gold-seeker) Avitus (Bird-like) Benedictus (Blessed) Caritatis (Loving or Charitable) Dei (Godly or of God) Devotus (Devoted, loyal) Dominicus (Of the Lord or belonging to the Lord) Eremitus (Hermit or ascetic) Ferratus (Iron-like, warrior-like) Fortis (Brave or strong) Fulvius (Fox-reddish, reddish hair) Gaudens (Joyful or rejoicing) Gloriosus (Glorious, magnificent) Gratianus (Thankful or grateful) Ignatius (Fire-like) Immortalis (Immortal or eternal) Invidius (Envy-free or envious) Justitius (Just, justly) Leporinus (Hare-like) Magnus (Great, magnificent) Martialis (War-like or military) Nigrinus (Blackish, dark hair) Notus (Known or famous) Obsequens (Obedient, respectful) Origenis (Of origin or beginning) Palatinus (Palatine, from the Palatine Hill in Rome) Pax (Peaceful or peaceful-natured) Perpetuus (Eternal, endless) Pius (Pious, faithful) Pontifex (Bridge-builder, Pope-like) Rufinus (Redheaded) Salutaris (Salvation or saving) Sancimonius (Sanctimonious, hypocritical) Sanctus (Holy) Seraphicus (Seraphic, angel-like) Victor (Victor, winner) Zephyrium (Zephyrine, relating to the west wind) Aeternitatis (Eternity) Templarum (Temples) Confratres (Brothers) Imperatoris (Emperor&amp;rsquo;s) Sacrae (Holy) Cruciferorum (Cross-bearers) Vigilantium (Watchful ones) Dei (Godly) Militantes (Warriors or Soldiers) Vobiscum (With you) Fidele - Faithful Confratres - Brothers (in arms) Aeternitates - Eternity Vigilantes - Watchful Templarum - Temples Cruciferi - Cross-bearers Imperator - Emperor Dei - Godly Sancta - Holy Sacrae - Holy Militantes - Warriors or Soldiers Vobiscum - With you Examples: Benedictus Cruciferi Fidele - Blessed Cross-Bearer Faithful Oraculi Veritatis Confratres - Oracle of Truth Brothers (in arms) Caeli Militantes Imperator - Heavenly Warriors Emperor Pax Vigilantes Aeternitates - Peaceful Watchful Eternity Dominus Fidele Templarum - Lordly Faithful Temples Cruciferi Sanctorum Dei - Cross-Bearer Saints Godly Imperator Pius Vobiscum - Pious Emperor With you Oraculi Sacrae Aeternitates - Oracle of the Holy Eternity Custodes Fidele Confratres - Guardians Faithful Brothers (in arms) Veritas Imperator Militantes - Truthful Emperor Warriors or Soldiers Pax Vigilantes Sancta - Peaceful Watchful Holy Cruciferi Aeternitates Templarum - Cross-Bearer Eternity Temples </description>
+    </item>
+    <item>
+      <title>Names</title>
+      <link>//localhost:1313/GDD/one/Characters/Merchants/resilient-merchants/names/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Characters/Merchants/resilient-merchants/names/</guid>
+      <description> Root Words &amp;amp; Syllables: Fracture Torrent Renew Endur Echo Ravage Flux Raze Salvage Respawn Quake Maelstrom Strife Ruin Clash Dust Torment Turbulence Scorch Reckon Prefixes: Fury Rogue Tempest Vortex Chaos Ruin Wraith Havoc Abyss Whirlwind Gale Anarchy Outlaw Reaver Storm Cipher Rift Shadow Wasteland Suffixes: Clan Horde Collective Legion Alliance Coalition Union Syndicate Network Conclave Consortium Fraternity Covenant Brotherhood Order Company Society Assembly Examples: Th&amp;rsquo;FuryClan Ravage-Legion Maelstrom-Reavers Strife-Coalition Salvage-Order Wasteland-Alliance Clash-Covenant Tempest-Brotherhood Flux-Society Scorch-Union Vortex-Network Abyss-Conclave Quake-Assembly Fury-Fraternity Havoc-Syndicate Outlaw-Company Torment-Society Reckon-Union Echo-Network Chaos-Covenant Dust-Order Turbulence-Alliance Wasteland-Legion Whirlwind-Conclave Rift-Company Storm-Society Tempest-Fraternity Scorch-Network Gale-Brotherhood Abyss-Covenant Wasteland-Assembly Strife-Conclave Torment-Union Echo-Syndicate Clash-Society Maelstrom-Order Chaos-Network Flux-Brotherhood Dust-Alliance Ravage-Legion Anarchy-Conclave Rift-Company Salvage-Covenant Reaver-Syndicate Strife-Fraternity Clash-Brotherhood Maelstrom-Network Shadow-Society Fury-Alliance Whirlwind-Company </description>
+    </item>
+    <item>
+      <title>Names</title>
+      <link>//localhost:1313/GDD/one/Characters/Merchants/synthetic-order-merchants/names/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Characters/Merchants/synthetic-order-merchants/names/</guid>
+      <description>ROOT Dynamis -&amp;gt; dYnAm!s -&amp;gt; Dynamicism -&amp;gt; Control of Power Kybernēsis -&amp;gt; Kb3rNē5s -&amp;gt; Cybernetics -&amp;gt; Steering of People Episteme -&amp;gt; Ēp1stēm3 -&amp;gt; Epistemology -&amp;gt; Theory of Knowledge Evolos -&amp;gt; Ev0l0s -&amp;gt; Evolution -&amp;gt; Process of Change Technē -&amp;gt; T3chN3 -&amp;gt; Technology -&amp;gt; Skilled Handwork Noumenon -&amp;gt; Nwmn3n -&amp;gt; Noumenal -&amp;gt; That which exists independently of human perception and conception Creatio -&amp;gt; Cr@ti0 -&amp;gt; Creation -&amp;gt; The act of bringing something into existence Creation -&amp;gt; Cr@t10n -&amp;gt; Creation -&amp;gt; The act of bringing something into existence Evolution -&amp;gt; Ēv0l0n -&amp;gt; Evolution -&amp;gt; Process of Change Energy -&amp;gt; EgN3rGy -&amp;gt; Energy -&amp;gt; A source of power Life -&amp;gt; L!</description>
+    </item>
+    <item>
+      <title>Old infrastructures</title>
+      <link>//localhost:1313/Locations/Areas/Old-infrastructures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Areas/Old-infrastructures/</guid>
+      <description> Power plants Water treatment facilities Communication towers Transportation hubs </description>
+    </item>
+    <item>
+      <title>Pandemic Hounds</title>
+      <link>//localhost:1313/Flora-Fauna/Pandemic-Hounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Pandemic-Hounds/</guid>
+      <description>found in [[Wild land]] of [[Flooded cities]]&#xA;Pandemic Hounds: These are mutated dogs that have been affected by the pandemic, and have become aggressive and dangerous. They travel in packs, and can be difficult to fight off.</description>
+    </item>
+    <item>
+      <title>Resilient</title>
+      <link>//localhost:1313/Lore-History/backstory/resilient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Lore-History/backstory/resilient/</guid>
+      <description>The world that The Resilient inhabits is a stark contrast to the one they once knew. The Dark Fever has not only claimed countless lives but also decimated infrastructure, technology, and society as a whole. As survivors of this devastating pandemic, The Resilient have found themselves in a precarious position – living amongst the remnants of a world that has all but crumbled around them.&#xA;In the aftermath of The Dark Fever, many families were torn apart, with children losing their parents and vice versa.</description>
+    </item>
+    <item>
+      <title>Sewer Lurkers</title>
+      <link>//localhost:1313/Flora-Fauna/Sewer-Lurkers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Flora-Fauna/Sewer-Lurkers/</guid>
+      <description>found in [[Wild land]] of [[Flooded cities]]&#xA;Sewer Lurkers: These are humanoid creatures that have taken up residence in the flooded sewers and tunnels of the cities. They are agile and stealthy, and can attack from unexpected angles.</description>
+    </item>
+    <item>
+      <title>Synthetic Order</title>
+      <link>//localhost:1313/Lore-History/backstory/synthetic-order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Lore-History/backstory/synthetic-order/</guid>
+      <description>The Synthetic Order was founded before The Dark Fever as a collaborative effort between engineers, scientists, and artificial intelligence (AI) to aid humanity in recovering from the devastation caused by a previous event. Initially, their primary mission involved developing intelligent machines capable of performing tasks too dangerous or time-consuming for humans. These creations focused on agriculture, resource extraction, healthcare, and education, helping to replenish the world&amp;rsquo;s depleted food supply and infrastructure while also providing advanced medical equipment and educational materials.</description>
+    </item>
+    <item>
+      <title>The Dark Fever</title>
+      <link>//localhost:1313/Lore-History/the-dark-fever/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Lore-History/the-dark-fever/</guid>
+      <description>The Dark Fever refers to a catastrophic event that took long time ago. It was a disaster of immense proportions, resulting in widespread destruction and devastation. This catastrophe led to significant loss of life, collapse of infrastructure, and environmental degradation on a global scale.&#xA;The exact cause of The Dark Fever remains unknown, though it is speculated to be either a pandemic or some other mass-infectious disease that swept across the world with alarming rapidity.</description>
+    </item>
+    <item>
+      <title>Wild lands</title>
+      <link>//localhost:1313/Locations/Areas/Wild-land/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/Locations/Areas/Wild-land/</guid>
+      <description>Wild lands are areas of uninhabited by civilization, and are therefore dangerous to explore. These areas can be found in each of the biomes, and are typically inhabited by powerful enemies and hidden treasures. Need to be well-equipped and cautious in order to survive the dangers of the wild lands.</description>
+    </item>
+  </channel>
+</rss>

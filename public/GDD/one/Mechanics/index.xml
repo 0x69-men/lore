@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanics on Shadow of the End</title>
+    <link>//localhost:1313/GDD/one/Mechanics/</link>
+    <description>Recent content in Mechanics on Shadow of the End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/GDD/one/Mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Creation</title>
+      <link>//localhost:1313/GDD/one/Mechanics/character-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/character-creation/</guid>
+      <description>Evolving Legacy Mechanic The game introduces a dynamic system where the player&amp;rsquo;s choices, actions, and relationships in one playthrough directly affect their offspring who will appear as playable characters in future generations. This feature allows for multiple story branches, providing an engaging and unique experience with every new game.&#xA;Progeny Creation: At the end of each playthrough, the player&amp;rsquo;s character may have children with NPCs, depending on the chosen faction and relationships established during that playthrough.</description>
+    </item>
+    <item>
+      <title>Movement</title>
+      <link>//localhost:1313/GDD/one/Mechanics/movement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/movement/</guid>
+      <description>The player&amp;rsquo;s base movement speed should be relatively high to enable quick navigation through the game world. The jump height could also be designed with a decent vertical range, allowing players to overcome certain obstacles and explore new areas.&#xA;Surface Different types of surfaces can affect the player&amp;rsquo;s movement and jumping abilities in various ways:&#xA;Solid ground: This is your default surface where the player has their maximum speed and jump height.</description>
+    </item>
+    <item>
+      <title>Combat</title>
+      <link>//localhost:1313/GDD/one/Mechanics/combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/combat/</guid>
+      <description>Player Attacks Melee Attacks: Equip the player character with a primary melee attack that can be used to quickly dispatch nearby enemies. This could be a simple slash or stab with their weapon, which deals moderate damage and has a relatively short range.&#xA;Ranged Attacks: Implement a ranged attack that allows players to engage enemies from a distance. This could involve firing projectiles (such as bullets, arrows, or energy blasts) or using an ability like a throwable explosive device.</description>
+    </item>
+    <item>
+      <title>Death Consequences</title>
+      <link>//localhost:1313/GDD/one/Mechanics/death-consequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/death-consequences/</guid>
+      <description>Death Consequences - Future Foes and Legacy Mutation When a player character dies during gameplay, the circumstances surrounding their demise will have lasting effects on the evolving legacy mechanic. Depending on how they died, their descendants may encounter different types of adversaries in future generations, each with distinct abilities and characteristics based on the original character&amp;rsquo;s death cause.&#xA;Mutation into Future Foes: If a player dies as a result of being exposed to mutagens or other hazardous substances found within the world, their descendants may face off against creatures that share traits similar to their ancestors&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Rest Area</title>
+      <link>//localhost:1313/GDD/one/Mechanics/rest-area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/rest-area/</guid>
+      <description>Rest Areas and Permanent Progression - Hubs, NPC Trading, and Reputation Between each level or generation in the game world, players will have access to rest areas where they can pause their journey, regroup, and prepare for the challenges that lie ahead. These hub towns serve as central locations for players to interact with various non-playable characters (NPCs) and engage in trade, forming strategic alliances or acquiring valuable resources that will aid them throughout their adventure.</description>
+    </item>
+    <item>
+      <title>Choosing a Faction</title>
+      <link>//localhost:1313/GDD/one/Mechanics/choosing-faction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/choosing-faction/</guid>
+      <description>Choosing a Faction and Its Consequences At the beginning of each playthrough, players will be given the opportunity to choose which faction they wish to align themselves with. This decision will grant them unique abilities, upgrades, and advantages that are specific to their chosen group, allowing them to develop a more personalized strategy as they navigate through the game world.&#xA;The three factions available for players to join are:</description>
+    </item>
+    <item>
+      <title>Exploration and Navigation</title>
+      <link>//localhost:1313/GDD/one/Mechanics/navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/navigation/</guid>
+      <description>Game features a vast and dynamic game world that is designed to be explored and navigated by players as they progress through their journey. The game world is divided into various regions, each with its unique landscape, factions, resources, and challenges. As you traverse these regions, you will encounter numerous rest areas where you can sleep and recharge your character’s stamina, health, and energy.&#xA;The branching paths within each region offer multiple routes for players to explore, with each path leading to a different set of encounters, challenges, and story elements.</description>
+    </item>
+    <item>
+      <title>Progression</title>
+      <link>//localhost:1313/GDD/one/Mechanics/progression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/GDD/one/Mechanics/progression/</guid>
+      <description>In order to incorporate the concept of multiple generations and different endings based on world progress, you can expand upon the existing story elements and player choices by introducing the following features:&#xA;End-game Progression Game introduces a new layer of depth and complexity to its gameplay through the implementation of multi-generational storytelling. As you navigate the world and make critical decisions that impact your faction, alliances, and territory control, you will find yourself shaping the course of history for generations to come.</description>
+    </item>
+  </channel>
+</rss>

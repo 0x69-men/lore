@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stronholds on Geekdocs</title>
+    <link>http://localhost:1313/Locations/Areas/Stronholds/</link>
+    <description>Recent content in Stronholds on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/Locations/Areas/Stronholds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Central Hub</title>
+      <link>http://localhost:1313/Locations/Areas/Stronholds/central-hub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Locations/Areas/Stronholds/central-hub/</guid>
+      <description>The Synthetic Order&amp;rsquo;s central hub is located in the old infrastructure area of the [[Flooded cities]]. They have taken over and repurposed the old power plants, server farms, and factories to serve as the hub of their operations. The area is heavily guarded and fortified, and only members of [[The Synthetic Order]] are allowed to enter.&#xA;The Synthetic Order&amp;rsquo;s central hub is located in the ruins of a pre-collapse city. It is a large and sprawling complex, built from the remains of the old world&amp;rsquo;s technology.</description>
+    </item>
+    <item>
+      <title>Holy City</title>
+      <link>http://localhost:1313/Locations/Areas/Stronholds/holy-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Locations/Areas/Stronholds/holy-city/</guid>
+      <description>The Devoted&amp;rsquo;s holy city is located on a large island in the center of a vast ocean. The island is lush and green, with dense forests covering its slopes and the tops of its peaks. In the center of the island stands the holy city, a massive metropolis built from white stone and marble. The city is surrounded by high walls, and its gates are guarded by devout warriors. Inside the city, the streets are clean and well-maintained, and the buildings are tall and imposing.</description>
+    </item>
+    <item>
+      <title>Last City</title>
+      <link>http://localhost:1313/Locations/Areas/Stronholds/last-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Locations/Areas/Stronholds/last-city/</guid>
+      <description>The Last City is a fortified city located in the ruins of a pre-collapse city. It is built from scavenged materials and surrounded by high walls, making it a safe haven for the Resilient. It is powered by a mix of diesel generators and solar panels, giving it a distinct dieselpunk aesthetic. The city is ruled by a council of leaders who work to protect and provide for the inhabitants. It is constantly under threat from wild animals, raiders, and other dangers of the wasteland.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+---
+title: "Areas"
+---
+
+- Flooded cities
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
+- Forest
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
+- Ruins
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
+- Mountains
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
+- Rivers
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
+- Lakes
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
+- Islands
+    - Wild lands
+    - Cities
+    - Camps
+    - Secret places
+    - Old infrastructures
