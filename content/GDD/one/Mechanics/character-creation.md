@@ -11,7 +11,7 @@ story branches, providing an engaging and unique experience with every new game.
 
 ### Progeny Creation:
 
-- At the end of each playthrough, the player's character may have children with NPCs, depending on the
+- At the end of each playthrough, the player's character may have children with NPCs or other players, depending on the
   chosen faction and relationships established during that playthrough. Each child may inherit their parent's traits,
   abilities, and equipment, as well as a portion of their reputation within various factions.
 
@@ -41,7 +41,7 @@ story branches, providing an engaging and unique experience with every new game.
 - The player can track their family's history through an in-game legacy system. This feature allows players to view the
   lineage of their characters, highlighting key events, alliances, and achievements throughout multiple generations.
 
-- As the game progresses, players will encounter their own descendants in various encounters
+- As the game progresses, players will encounter their own descendants or those of other players in various encounters
   and missions. The choices made during previous playthroughs will influence how these interactions unfold, creating a
   sense of connection between different characters and storylines.
 
